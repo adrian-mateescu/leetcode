@@ -1,4 +1,4 @@
-var solution = new Solution();
+var solution = new LeetCode.Problems.TwoSum.Solution();
 var nums = new[] { 2, 7, 11, 15 };
 var target = 9;
 var expected = new[] { 0, 1 };
